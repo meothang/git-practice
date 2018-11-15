@@ -8,4 +8,7 @@ class StaticPagesController < ApplicationController
 
   def help
   end
+def hello
+puts "hello world"
+end	
 end
